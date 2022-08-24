@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeinheit_website=self.webpackChunkeinheit_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Neueste Beitr\xe4ge","items":[{"title":"SPD  \u2014 Die Partei der Asozialen?","permalink":"/blog/spd-antisocial"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeinheit_website=self.webpackChunkeinheit_website||[]).push([[446],{7469:e=>{e.exports=JSON.parse('{"label":"antisocial","permalink":"/en/blog/tags/antisocial","allTagsPath":"/en/blog/tags","count":1}')}}]);
