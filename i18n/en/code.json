@@ -254,6 +254,39 @@
     "message": "Unity Germany"
   },
   "homepage.feature1": {
-    "message": "English"
+    "message": "No special treatment for career politicians!"
+  },
+  "homepage.button1": {
+    "message": "Platform"
+  },
+  "homepage.feature1.1": {
+    "message": "Law and Justice of the People, by the People and for the People!"
+  },
+  "homepage.feature2": {
+    "message": "Undogmatic and immediate solutions"
+  },
+  "homepage.feature2.1": {
+    "message": "Against electoral fraud and coalition madness"
+  },
+  "homepage.feature2.2": {
+    "message": "For the People!"
+  },
+  "homepage.feature3": {
+    "message": "Limit governmental powers. Protect citizens' privacy"
+  },
+  "homepage.feature3.1": {
+    "message": "Limit domestic intelligence. Stop the emergence of a new Stasi/Gestapo!"
+  },
+  "homepage.feature3.2": {
+    "message": "Restore freedom of speech"
+  },
+  "homepage.feature1.title": {
+    "message": "Justice"
+  },
+  "homepage.feature2.title": {
+    "message": "Solutions"
+  },
+  "homepage.feature3.title": {
+    "message": "Privacy"
   }
 }

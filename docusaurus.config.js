@@ -74,7 +74,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: '/category/plattform',
             position: 'left',
             label: 'Plattform',
           },
@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Plattform',
-                to: '/docs/intro',
+                to: '/docs/category/plattform',
               },
             ],
           },

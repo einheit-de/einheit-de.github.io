@@ -5,7 +5,7 @@ import Translate from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: 'Gerechtigkeit',
+    title: <Translate id='homepage.feature1.title'>Gerechtigkeit</Translate>,
     Svg: require('@site/static/img/justice-alt.svg').default,
     description: (
         <>
@@ -15,7 +15,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Lösungen',
+    title: <Translate id='homepage.feature2.title'>Lösungen</Translate>,
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
@@ -26,7 +26,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Privatsphäre',
+    title: <Translate id='homepage.feature3.title'>Privatsphäre</Translate>,
     Svg: require('@site/static/img/intelligence.svg').default,
     description: (
       <>
