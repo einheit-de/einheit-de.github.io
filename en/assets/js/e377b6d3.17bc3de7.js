@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeinheit_website=self.webpackChunkeinheit_website||[]).push([[653],{9520:e=>{e.exports=JSON.parse('{"label":"injustice","permalink":"/en/blog/tags/injustice","allTagsPath":"/en/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeinheit_website=self.webpackChunkeinheit_website||[]).push([[654],{3510:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/injustice","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

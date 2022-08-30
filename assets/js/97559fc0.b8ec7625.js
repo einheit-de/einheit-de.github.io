@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeinheit_website=self.webpackChunkeinheit_website||[]).push([[285],{7817:e=>{e.exports=JSON.parse('{"title":"Plattform","slug":"/category/plattform","permalink":"/docs/category/plattform","navigation":{"previous":{"title":"Intro","permalink":"/docs/intro"},"next":{"title":"Einheit durch Gemeinsamkeit","permalink":"/docs/platform/unity"}}}')}}]);

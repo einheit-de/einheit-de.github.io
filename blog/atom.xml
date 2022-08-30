@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://einheit-de.github.io/blog</id>
     <title>Einheit Deutschland Blog</title>
-    <updated>2022-08-24T00:00:00.000Z</updated>
+    <updated>2022-08-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://einheit-de.github.io/blog"/>
     <subtitle>Einheit Deutschland Blog</subtitle>
     <icon>https://einheit-de.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Die Unglaubwürdigkeit des deutschen Staatsschutz]]></title>
+        <id>injustice</id>
+        <link href="https://einheit-de.github.io/blog/injustice"/>
+        <updated>2022-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WIP]]></summary>
+        <content type="html"><![CDATA[<p>WIP</p>]]></content>
+        <author>
+            <name>Mark Bauermeister</name>
+            <uri>https://www.youtube.com/channel/UC3YqiITP_XY04HfAmqVCO7w/featured</uri>
+        </author>
+        <category label="injustice" term="injustice"/>
+        <category label="antisocial" term="antisocial"/>
+        <category label="staatsschutz" term="staatsschutz"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SPD  — Die Partei der Asozialen?]]></title>
         <id>spd-antisocial</id>

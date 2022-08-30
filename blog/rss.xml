@@ -4,10 +4,21 @@
         <title>Einheit Deutschland Blog</title>
         <link>https://einheit-de.github.io/blog</link>
         <description>Einheit Deutschland Blog</description>
-        <lastBuildDate>Wed, 24 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[Die Unglaubwürdigkeit des deutschen Staatsschutz]]></title>
+            <link>https://einheit-de.github.io/blog/injustice</link>
+            <guid>injustice</guid>
+            <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[WIP]]></description>
+            <content:encoded><![CDATA[<p>WIP</p>]]></content:encoded>
+            <category>injustice</category>
+            <category>antisocial</category>
+            <category>staatsschutz</category>
+        </item>
         <item>
             <title><![CDATA[SPD  — Die Partei der Asozialen?]]></title>
             <link>https://einheit-de.github.io/blog/spd-antisocial</link>
