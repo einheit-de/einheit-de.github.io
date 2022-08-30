@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Police and Justice Reform
@@ -8,7 +8,13 @@ sidebar_position: 1
 
 For quite some time, the German federal government and the state governments have been violating the basic democratic order by cleverly circumventing the first five articles of German Basic Law.
 
-Frankly, this cannot and should not be accepted any longer! The protection of privacy is paramount, and the constant police encroachment on the lives of private citizens (tens of thousands of raids every year) is testament to the failure of the current government to keep order, just as it is reminiscent of the behavior of reactive elements during the darkest hours of the 20th century.
+Frankly, this cannot and must not be accepted any longer! The protection of privacy is paramount, and the constant police encroachment on the lives of private citizens (tens of thousands of raids every year) is testament to the failure of the current government to keep order, just as it is reminiscent of the behavior of reactive elements during the darkest hours of the 20th century.
+
+To make matters worse, police and courts are violating the most fundamental principles of a Constitutional Republic.<br/>
+Namely, proportionality and protection of the accused against arbitrary prosecution (More on this: [Blog Post](/blog/injustice))
+
+Can we still consider Germany a country of law and justice when governmental entities, during the investigation of merely alleged crimes, inflict more material and psychological harm than the suspect themself stands accused of?<br/>
+Can detectives be entrusted with an ongoing investigation when their behavior during the original search of persons and property was already conspicuous and demonstrably unlawful?
 
 Finally, it is also questionable to what extent our current legal system can be reconciled with a democratic constitutional state. A court without the participation of the People cannot act "In the Name of the People". 
 This is often evident even before the actual judge's verdict, presented by the the fact that court proceedings come about in the first place, in cases that are hardly in the public interest and would not be supported by the broad mass of citizens.
@@ -17,5 +23,10 @@ This is often evident even before the actual judge's verdict, presented by the t
 We demand the abolition of the current "People's Court" system, which emerged during the rise of National Socialism and has since been continued almost unchanged. 
 We demand the re-establishment of trials by jury, in which impartial members of society engage in a fact finding mission and in which the defendant is fairly represented and judged by a jury of their peers.
 
+We also call for the implementation of a [**Fruit of the Poisonous Tree**](https://en.wikipedia.org/wiki/Fruit_of_the_poisonous_tree) doctrine, to combat police corruption and prevent general arbitrariness. If evidence has already been obtained under false and grossly illegal circumstances, additional evidence tampering cannot be ruled out.
+
+By the same token "Does the end justify the means?" should be a fundamental question before the initation of any and all legal procedure.
+
+Proportionality, incorruptibility and democratization of the legal process ought to be the cornerstone of a Constitutional Republic.
 This is the only way to ensure justice in the interest of the People as well as equality before the law for all citizens.
 :::

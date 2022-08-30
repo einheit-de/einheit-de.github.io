@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Polizei- und Gesetzesreform
@@ -10,10 +10,20 @@ Seit geraumer Zeit verstoßen Bund und Länder gegen die demokratische Grundordn
 
 Dieses kann und darf nicht weiter hingenommen werden! Der Schutz des Privaten ist höchstes Gut und der stetige polizeiliche Eingriff in die Privatsphäre (zehntausende von Razzien jährlich) zeugt von einem Versagen der staatlichen Ordnung und erinnert verstärkt an das Verhalten reaktiver Elemente während der dunkelsten Stunden des 20. Jahrhunderts.
 
+Zu allem Übel verstoßen Polizei und Gerichte dabei gegen die grundlegendsten Prinzipien eines Rechtsstaats.<br/>
+Namentlich, Verhältnismäßigkeit und Schutz des Beschuldigten gegen WIllkür (mehr hierzu: [Blog Post](/blog/injustice))
+
+Kann man tatsächlich von einem Rechtsstaat sprechen, wenn staatliche Organe bei der Verfolgung angeblicher, noch nicht einmal bestätigter, Straftaten mehr materiellen und psychologischen Schaden anrichten, als dem Verdächtigen selbst vorgeworfen werden? Kann einem Kriminalbeamten die kontinuierliche Untersuchung von Sachfällen zugetraut werden, wenn dieser sich bereits bei der ursprünglichen Durchsuchung von Personen und Räumlichkeiten auffällig und nachweislich rechtswidrig verhalten hat?
+
 Abschließend ist auch fraglich, inwiefern sich unser derzeitiges Rechtssystem tatsächlich mit einem demokratischen Rechtsstaat vereinbaren lässt. Ein Gericht ohne Beteiligung des Volkes kann nicht sinngemäß "Im Namen des Volkes" handeln. Vielmals zeigt sich dies bereits vor dem eigentlichen Richterspruch, bereits daran dass es überhaupt erst zu einem Verfahren kommt, in Fällen dessen Verfolgung von der breiten Masse des Volkes wohl keineswegs unterstützt werden würde.
 
 :::caution ‎
-Wir fordern die Abschaffung des derzeitigen, während der Zeit des National Sozialismus entstandenen, "Volksgericht" Systems und die Re-etablierung traditioneller Schwurgerichte in dem unbefangene Geschworene aus allen Teilen der Bevölkerung Anteil an der Rechtsfindung haben! 
+Wir fordern die Abschaffung des derzeitigen, während der Zeit des National Sozialismus entstandenen, "Volksgericht" Systems und die Re-etablierung traditioneller Schwurgerichte in dem unbefangene Geschworene aus allen Teilen der Bevölkerung Anteil an der Rechtsfindung haben!
 
+Ebenfalls fordern wir die Einführung des Grundsatzes der [**Früchte des vergifteten Baumes**](https://de.wikipedia.org/wiki/Fr%C3%BCchte_des_vergifteten_Baumes), um Polizeikorruption zu bekämpfen und allgemeine rechtliche Willkür zu verhindern. Wenn bereits Sach- und Beweismittel unter falschen und rechtswidrigen Umständen beschafft wurden, muss den zuständigen Beamten leider unterstellt werden, dass diese auch Beweise fälschen könnten.
+
+Im Allgemeinen sollte, bei der Rechtsfindung, auch an erster Stelle die Grundsatzfrage "Heiligt das Ergebnis die Mittel?" gesetzt werden.
+
+Verhältnismäßigkeit, Unkorrumpierbarkeit und Demokratisierung sollten der Grundstein eines Rechtsstaats sein.<br/>
 Nur so ist eine faire Rechtssprechung im Sinne des Volkes und eine rechtliche Gleichheit aller Bürger gesichert.
 :::
