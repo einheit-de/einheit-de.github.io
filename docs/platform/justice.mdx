@@ -6,9 +6,49 @@ sidebar_position: 2
 
 **Die Polizei und die Gerichte als Diener des Volkes**
 
+import BrowserOnly from "@docusaurus/BrowserOnly";
+import ReactJkMusicPlayer from "react-jinke-music-player";
+import "react-jinke-music-player/assets/index.css";
+
+export const audioList = [
+  {
+    name: "Polizei- und Gesetzesreform",
+    singer: "Mark Bauermeister (einheit-de.github.io)",
+    cover:
+      "/img/bg.jpg",
+    musicSrc:
+      "/mp3/justice.mp3",
+  },
+];
+export let audioInstance = null
+export const options = {
+  audioLists: audioList,
+  defaultPlayIndex: 0,
+  theme: "auto",
+  autoPlay: false,
+  defaultPosition: { top: 80, right: 80 },
+  glassBg: true,
+  remove: false,
+  showPlayMode: false,
+  showMediaSession: true,
+  onCoverClick(mode) {
+    if (mode == "mini") {
+      audioInstance.play()
+    }
+  },
+};
+
+<BrowserOnly>
+  {() => {
+    return <ReactJkMusicPlayer 
+      getAudioInstance={(instance) => { audioInstance = instance }} 
+      {...options} />;
+  }}
+</BrowserOnly>
+
 Seit geraumer Zeit verstoßen Bund und Länder gegen die demokratische Grundordnung und umschiffen geschickt die ersten fünf Artikel des deutschen Grundgesetzes.
 
-Dieses kann und darf nicht weiter hingenommen werden! Der Schutz des Privaten ist höchstes Gut und der stetige polizeiliche Eingriff in die Privatsphäre (zehntausende von Razzien jährlich) zeugt von einem Versagen der staatlichen Ordnung und erinnert verstärkt an das Verhalten reaktiver Elemente während der dunkelsten Stunden des 20. Jahrhunderts.
+Dies kann und darf nicht weiter hingenommen werden! Der Schutz des Privaten ist höchstes Gut und der stetige polizeiliche Eingriff in die Privatsphäre (zehntausende von Razzien jährlich) zeugt von einem Versagen der staatlichen Ordnung und erinnert verstärkt an das Verhalten reaktionärer Elemente während der dunkelsten Stunden des 20. Jahrhunderts.
 
 Zu allem Übel verstoßen Polizei und Gerichte dabei gegen die grundlegendsten Prinzipien eines Rechtsstaats.<br/>
 Namentlich, Verhältnismäßigkeit und Schutz des Beschuldigten gegen WIllkür (mehr hierzu: [Blog Post](/blog/injustice))
