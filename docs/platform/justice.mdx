@@ -6,45 +6,18 @@ sidebar_position: 2
 
 **Die Polizei und die Gerichte als Diener des Volkes**
 
-import BrowserOnly from "@docusaurus/BrowserOnly";
-import ReactJkMusicPlayer from "react-jinke-music-player";
-import "react-jinke-music-player/assets/index.css";
+import AudioPlayer from '@site/src/components/AudioPlayer';
 
 export const audioList = [
   {
     name: "Polizei- und Gesetzesreform",
     singer: "Mark Bauermeister (einheit-de.github.io)",
-    cover:
-      "/img/bg.jpg",
     musicSrc:
       "/mp3/justice.mp3",
   },
-];
-export let audioInstance = null
-export const options = {
-  audioLists: audioList,
-  defaultPlayIndex: 0,
-  theme: "auto",
-  autoPlay: false,
-  defaultPosition: { top: 80, right: 80 },
-  glassBg: true,
-  remove: false,
-  showPlayMode: false,
-  showMediaSession: true,
-  onCoverClick(mode) {
-    if (mode == "mini") {
-      audioInstance.play()
-    }
-  },
-};
+]
 
-<BrowserOnly>
-  {() => {
-    return <ReactJkMusicPlayer 
-      getAudioInstance={(instance) => { audioInstance = instance }} 
-      {...options} />;
-  }}
-</BrowserOnly>
+<AudioPlayer playlist={audioList}/>
 
 Seit geraumer Zeit verstoßen Bund und Länder gegen die demokratische Grundordnung und umschiffen geschickt die ersten fünf Artikel des deutschen Grundgesetzes.
 
