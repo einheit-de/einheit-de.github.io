@@ -6,7 +6,6 @@ import "react-jinke-music-player/assets/index.css";
 import BrowserOnly from "@docusaurus/BrowserOnly";
 
 // Use <Translate> for Zuhören/Play and for react-music-player specific locale translations.
-// Global Event Listener: "ThemeChange"
 // TODO: Restore volume (className: .play-sounds) for max-width: 767px
 // TODO: Replace document.getElementsByClassName with React equivalent
 export default class AudioPlayer extends React.Component {
@@ -55,6 +54,13 @@ export default class AudioPlayer extends React.Component {
     this.theme = theme
   }
 
+  changeGlobalTheme = (event) => {
+    this.theme = event.detail
+    let options = { ...this.state.options }
+    options.theme = event.detail;
+    this.setState({ options })
+  }
+
   componentDidUpdate() {
     let playlist = document.getElementsByClassName("group audio-lists-btn")[0]
     let prev = document.getElementsByClassName("group prev-audio")[0]
@@ -78,6 +84,7 @@ export default class AudioPlayer extends React.Component {
       <BrowserOnly>
         {() => {
           if (this.theme == null) { this.theme = "auto" }
+          window.addEventListener("themeChange", this.changeGlobalTheme)
           return <ReactJkMusicPlayer
             onThemeChange={this.changeTheme}
             style={{ display: this.state.open ? "block" : "none" }}
