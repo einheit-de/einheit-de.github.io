@@ -80,7 +80,7 @@ export default class AudioPlayer extends React.Component {
         className={styles.playButton}
       >{this.state.open
         ? <Translate id="buttonListenStop">⏸️ Pausieren</Translate>
-        : <Translate id="buttonListen">🎧 Zuhören</Translate>} </button>
+        : <Translate id="buttonListen">🎧 Vorlesen</Translate>} </button>
       <BrowserOnly>
         {() => {
           if (this.theme == null) { this.theme = "auto" }

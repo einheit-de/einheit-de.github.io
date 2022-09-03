@@ -288,5 +288,11 @@
   },
   "homepage.feature3.title": {
     "message": "Privacy"
+  },
+  "buttonListenStop": {
+    "message": "⏸️ Pause"
+  },
+  "buttonListen": {
+    "message": "🎧 Listen"
   }
 }
