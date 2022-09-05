@@ -294,5 +294,50 @@
   },
   "buttonListen": {
     "message": "🎧 Listen"
+  },
+  "consent-manager.introduction.title": {
+    "message": "Data protection enabled"
+  },
+  "consent-manager.introduction.description": {
+    "message": "Some Website features are disabled to protect your privacy."
+  },
+  "consent-manager.introduction.learn-more": {
+    "message": "Learn more"
+  },
+  "consent-manager.introduction.enable-all": {
+    "message": "Enable all features"
+  },
+  "consent-manager.form.headline": {
+    "message": "Website Features and Cookies"
+  },
+  "consent-manager.form.description.0": {
+    "message": "By default third party features are disabled to protect your privacy."
+  },
+  "consent-manager.form.description.1": {
+    "message": "To view third-party content, you first have to accept their specific terms and conditions. This includes their cookie policies, which can change anytime and which we have no control over."
+  },
+  "consent-manager.form.description.2": {
+    "message": "But if you do not view this content, no third-party cookies are installed on your device."
+  },
+  "consent-manager.form.description.3": {
+    "message": "By activating the features you agree to the providers' terms of use and their cookie policy. You can opt out at any time."
+  },
+  "consent-manager.form.reset": {
+    "message": "Reset defaults"
+  },
+  "consent-manager.form.enable-all": {
+    "message": "Enable all features"
+  },
+  "consent-manager.form.disable-all": {
+    "message": "Disable all features"
+  },
+  "consent-manager.form.save": {
+    "message": "Save and close"
+  },
+  "consent-manager.youtube.policy": {
+    "message": "https://policies.google.com/privacy?hl=en-us"
+  },
+  "consent-manager.youtube.description": {
+    "message": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
   }
 }

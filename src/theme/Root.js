@@ -1,6 +1,7 @@
 import React from 'react'
 import { MDXProvider } from '@mdx-js/react'
 import { IntegrationProfile } from '../components/ConsentManager/integration-profile'
+import { i18n } from '../components/ConsentManager/i18n'
 
 import createPersistedState from 'use-persisted-state'
 
@@ -22,6 +23,7 @@ const useConsentStateStore = createPersistedState('gdpr')
 
 // Default implementation, that you can customize
 function Root({ children }) {
+  new i18n
   const storage = useConsentStateStore()
   const config = {
     integrations: [
